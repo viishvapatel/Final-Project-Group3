@@ -1,0 +1,11 @@
+:root {
+     --primary: rgba(89, 216, 255, 0.6);
+    --light: rgb(252, 252, 252);
+    --greyish: rgb(116 121 129 / 80%); 
+}
+
+.header {
+    font-family : monospace;
+    text-align: center;
+    font-size: 40px;
+}
